@@ -16,5 +16,5 @@ Launch the app, enter the name of the players (or not) and choose the mode that 
 &nbsp;
 <img src="https://user-images.githubusercontent.com/31239471/89033241-a8171080-d336-11ea-8747-c5a9f68ac630.png" width="20%" height="20%"></img>
 &nbsp;
-<img src="https://user-images.githubusercontent.com/31239471/89033232-a64d4d00-d336-11ea-9776-6c9e5a77b777.png" width="50%" height="50%"></img>
+<center><img src="https://user-images.githubusercontent.com/31239471/89033232-a64d4d00-d336-11ea-9776-6c9e5a77b777.png" width="50%" height="50%"></img></center>
 
