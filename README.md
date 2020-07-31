@@ -14,17 +14,15 @@ Launch the app, enter the name of the players (or not) and choose the mode that 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/31239471/73666215-bb586480-46a2-11ea-8feb-ca09f979bb55.gif" width="20%" height="20%"></img>
+<img src="https://user-images.githubusercontent.com/31239471/89033246-a9483d80-d336-11ea-8b72-044636f3d749.png" width="20%" height="20%"></img>
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-<img src="https://user-images.githubusercontent.com/31239471/73666158-9ebc2c80-46a2-11ea-9a92-49e3876bfc7c.gif" width="20%" height="20%"></img>
+<img src="https://user-images.githubusercontent.com/31239471/89033241-a8171080-d336-11ea-8747-c5a9f68ac630.png" width="20%" height="20%"></img>
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-<img src="https://user-images.githubusercontent.com/31239471/73666260-cf03cb00-46a2-11ea-8363-c07523230a89.gif" width="20%" height="20%"></img>
+<img src="https://user-images.githubusercontent.com/31239471/89033232-a64d4d00-d336-11ea-9776-6c9e5a77b777.png" width="20%" height="20%"></img>
+
