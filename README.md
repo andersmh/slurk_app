@@ -1,6 +1,10 @@
 # Slurk
 <p>
-<img src="https://user-images.githubusercontent.com/31239471/73654645-8a6d3500-468c-11ea-9624-711c853ea587.png" height="420%" width="20%" align="left"></img>A personal rating keeper. The app lets you rate the foods, drinks, items or anything you want throughout your travels! The app was designed in Adobe XD and made using flutter🌟
+<img src="https://user-images.githubusercontent.com/31239471/73654645-8a6d3500-468c-11ea-9624-711c853ea587.png" height="420%" width="20%" align="left"></img>Slurk is one of Norway's biggest party games, with over 3000 unique questions! 🔥
+
+The app gives that little extra at the party or afterparty, whether it is with new or old friends! The game contains well-known drinking games such as "Pointing game", "Thumbs up or down", "Category", "Challenge" etc.
+
+Launch the app, enter the name of the players (or not) and choose the mode that best suits your mood.
 <br/>
 <br/>
 <br/>
