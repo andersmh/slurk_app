@@ -10,13 +10,7 @@ Launch the app, enter the name of the players (or not) and choose the mode that 
 
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <img src="https://user-images.githubusercontent.com/31239471/89033246-a9483d80-d336-11ea-8b72-044636f3d749.png" width="20%" height="20%"></img>
 &nbsp;
 <img src="https://user-images.githubusercontent.com/31239471/89033241-a8171080-d336-11ea-8747-c5a9f68ac630.png" width="20%" height="20%"></img>
