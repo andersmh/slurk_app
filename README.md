@@ -13,12 +13,12 @@ Launch the app, enter the name of the players (or not) and choose the mode that 
 The app can be found at both the [Play Store](https://play.google.com/store/apps/details?id=app.andersmhalvorsen.slurk) and the [App Store](https://vg.no)! 🔥
 
 ## 🔥 GIFs and images from the app
-<img src="https://user-images.githubusercontent.com/31239471/90683680-3b24d580-e267-11ea-89cc-155bb54c67ef.gif" width="20%" height="20%"></img>
+<img src="https://user-images.githubusercontent.com/31239471/90683680-3b24d580-e267-11ea-89cc-155bb54c67ef.gif" width="30%" height="30%"></img>
 &nbsp;
 &nbsp;
 &nbsp;
-<img src="https://user-images.githubusercontent.com/31239471/90683966-acfd1f00-e267-11ea-9011-1d022cb3a3e9.gif" width="20%" height="20%"></img>
+<img src="https://user-images.githubusercontent.com/31239471/90683966-acfd1f00-e267-11ea-9011-1d022cb3a3e9.gif" width="30%" height="30%"></img>
 <br>
 
-<img src="https://user-images.githubusercontent.com/31239471/90684374-5e9c5000-e268-11ea-9736-a8d6a1c1bcb5.gif" width="50%" height="50%"></img>
+<img src="https://user-images.githubusercontent.com/31239471/90684619-d0749980-e268-11ea-9bf3-972dc2771e82.gif" width="50%" height="50%"></img>
 
