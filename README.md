@@ -1,5 +1,5 @@
 # Slurk
-<img src="https://user-images.githubusercontent.com/31239471/89033126-6e460a00-d336-11ea-9947-6142e8ad240a.png" height="150" width="150" align="left"/>
+<img src="https://user-images.githubusercontent.com/31239471/89033126-6e460a00-d336-11ea-9947-6142e8ad240a.png" height="170" width="170" align="left"/>
 
 Slurk is one of Norway's biggest party games, with over 3000 unique questions! 🔥
 
@@ -17,7 +17,7 @@ The app can be found at both the [Play Store](https://play.google.com/store/apps
 &nbsp;
 &nbsp;
 &nbsp;
-<img src="https://user-images.githubusercontent.com/31239471/90681033-0a42a180-e263-11ea-96f0-eb5f7bb31969.gif" width="20%" height="20%"></img>
+<img src="https://user-images.githubusercontent.com/31239471/90683966-acfd1f00-e267-11ea-9011-1d022cb3a3e9.gif" width="20%" height="20%"></img>
 &nbsp;
 &nbsp;
 &nbsp;
