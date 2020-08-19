@@ -8,9 +8,6 @@ The app gives that little extra at the party or afterparty, whether it is with n
 Launch the app, enter the name of the players (or not) and choose the mode that best suits your mood.
 
 <br>
-<br>
-
-
 
 ## 🧐 Where to download?
 The app can be found at both the [Play Store](https://play.google.com/store/apps/details?id=app.andersmhalvorsen.slurk) and the [App Store](https://vg.no)! 🔥
