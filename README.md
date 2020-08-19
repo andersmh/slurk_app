@@ -20,5 +20,5 @@ The app can be found at both the [Play Store](https://play.google.com/store/apps
 <img src="https://user-images.githubusercontent.com/31239471/90683966-acfd1f00-e267-11ea-9011-1d022cb3a3e9.gif" width="30%" height="30%"></img>
 <br>
 
-<img src="https://user-images.githubusercontent.com/31239471/90684619-d0749980-e268-11ea-9bf3-972dc2771e82.gif" width="60%" height="60%"></img>
+<img src="https://user-images.githubusercontent.com/31239471/90684619-d0749980-e268-11ea-9bf3-972dc2771e82.gif" width="65%" height="65%"></img>
 
