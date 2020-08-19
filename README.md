@@ -13,7 +13,7 @@ Launch the app, enter the name of the players (or not) and choose the mode that 
 ## 🧐 Where to download?
 The app can be found at both the [Play Store](https://play.google.com/store/apps/details?id=app.andersmhalvorsen.slurk) and the [App Store](https://vg.no)! 🔥
 
-## 🔥 GIFs from the app
+## 🔥 GIFs and images from the app
 <img src="https://user-images.githubusercontent.com/31239471/89033246-a9483d80-d336-11ea-8b72-044636f3d749.png" width="20%" height="20%"/>
 &nbsp;
 &nbsp;
