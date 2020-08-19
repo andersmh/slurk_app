@@ -1,5 +1,5 @@
 # Slurk
-<img src="https://user-images.githubusercontent.com/31239471/89033126-6e460a00-d336-11ea-9947-6142e8ad240a.png" height="100" width="100" align="left"/>
+<img src="https://user-images.githubusercontent.com/31239471/89033126-6e460a00-d336-11ea-9947-6142e8ad240a.png" height="150" width="150" align="left"/>
 
 Slurk is one of Norway's biggest party games, with over 3000 unique questions! 🔥
 
