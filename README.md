@@ -1,4 +1,4 @@
-# Slurk (2020)
+# Slurk
 <p>
 <img src="https://user-images.githubusercontent.com/31239471/89033126-6e460a00-d336-11ea-9947-6142e8ad240a.png" height="420%" width="20%" align="left"></img>https://play.google.com/store/apps/details?id=app.andersmhalvorsen.slurk
 
