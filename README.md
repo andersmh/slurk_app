@@ -18,8 +18,7 @@ The app can be found at both the [Play Store](https://play.google.com/store/apps
 &nbsp;
 &nbsp;
 <img src="https://user-images.githubusercontent.com/31239471/90683966-acfd1f00-e267-11ea-9011-1d022cb3a3e9.gif" width="20%" height="20%"></img>
-&nbsp;
-&nbsp;
-&nbsp;
-<img src="https://user-images.githubusercontent.com/31239471/90681033-0a42a180-e263-11ea-96f0-eb5f7bb31969.gif" width="20%" height="20%"></img>
+<br>
+
+<img src="https://user-images.githubusercontent.com/31239471/90684374-5e9c5000-e268-11ea-9736-a8d6a1c1bcb5.gif" width="20%" height="20%"></img>
 
